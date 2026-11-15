@@ -45,4 +45,3 @@ The study uses observations from one monitoring location and is observational ra
 
 ---
 
-*SoftUni — Math Concepts for Developers, 2026*
