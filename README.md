@@ -43,5 +43,8 @@ Keep the CSV file in the same folder as the main notebook. The main analysis doe
 
 The study uses observations from one monitoring location and is observational rather than causal. Seasonal patterns and unmeasured factors may influence the results.
 
----
+## AI Assistance Disclosure
+
+AI-assisted tools were used to support selected writing tasks, code review, debugging, and the exploration and development of ideas initially proposed by the author. The author reviewed the analytical methods, verified the calculations and results, and takes responsibility for the final interpretations and project content.
+
 
