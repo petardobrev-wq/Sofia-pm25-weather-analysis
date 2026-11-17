@@ -6,6 +6,8 @@ This project investigates the relationship between daily PM2.5 concentrations an
 
 I apply descriptive statistics, Pearson correlation, and conditional probability to explore associations between air pollution and temperature, relative humidity, wind speed, and atmospheric pressure.
 
+The main notebook also includes sensitivity checks and an exploratory comparison of PM2.5 correlations across meteorological seasons.
+
 The analysis addresses two research questions:
 
 1. How is daily PM2.5 associated with individual meteorological variables?
